@@ -11,4 +11,4 @@ Project 3 : Image Classification using AWS SageMaker
 
 Project 4 : Operationalizing Machine Learning on Sagemaker
 
-Project 5 : Capsyone Project
+Project 5 : Capstone Project
