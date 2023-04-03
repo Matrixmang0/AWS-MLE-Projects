@@ -10,3 +10,5 @@ Project 2 : Build a ML Workflow For Scones Unlimited On Amazon SageMaker
 Project 3 : Image Classification using AWS SageMaker
 
 Project 4 : Operationalizing Machine Learning on Sagemaker
+
+Project 5 : Capsyone Project
